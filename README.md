@@ -1,6 +1,6 @@
 ## Hi, Welcome to my Profile!👋
 
-I'm an exchange student at the University of Notre Dame⛪︎. 
+I'm an exchange student at the University of Notre Dame⛪︎. <br>
 I study Industrial and Systems Engineering at Keio University in Japan 🇯🇵.
 
 ## 🙂About Me
