@@ -26,8 +26,10 @@ Introduction
 - Improve my ability to communicate data-driven findings clearly
 - Build projects that I can add to my GitHub portfolio!!
 
-## 🛠 Languages and Tools
+## 🛠 Languages and Tools.md
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="40" alt="Xcode" /> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Terminalicon2.png" width="40" alt="Terminal" />
 
 ## 📧 Contact
+
+[rwakasug@nd.edu](mailto:rwakasug@nd.edu)
