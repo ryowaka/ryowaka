@@ -18,6 +18,9 @@ Introduction
 ### 📊 Streamlit Data Exploration App
 🔗[View Project](https://github.com/ryowaka/WAKASUGI-Data-Science-Portfolio/blob/main/Week_4/Week_4_1_IN-CLASS.py)
 
+### 🐧 Palmer's Penguins Streamlit App
+🔗[View the Project](https://github.com/ryowaka/WAKASUGI-Data-Science-Portfolio/blob/main/basic_streamlit_app/main.py)
+
 ## 🎯 Goal for the semester
 
 - Improve my Python and data science skills through projects
